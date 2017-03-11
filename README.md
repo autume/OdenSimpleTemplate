@@ -182,7 +182,6 @@ public class TempLateActivity extends BaseActivity<TempLatePresenter> implements
 - 在TempLateModule中找到TempLateContract.View的构造方法
 - 依次完成TempLateContract.View和TempLatePresenter的构造
 
-[源码已上传github](https://github.com/autume/OdenSimpleTemplate)
 [详细内容见CSDN原文](http://blog.csdn.net/yaodong379/article/details/61414333)
 
 
